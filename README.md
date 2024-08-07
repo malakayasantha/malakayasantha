@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/MYasantha25914" /></a>
-<a href="https://www.linkedin.com/in/malaka-yasantha-464123207"/></a>
-<a href="https://www.facebook.com/malaka.yasantha" /></a>
-<a href="https://www.instagram.com/_steerfie_/" /></a>
+<a href="https://x.com/MYasantha25914" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/malaka-yasantha-464123207" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/malaka.yasantha"target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/_steerfie_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 
