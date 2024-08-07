@@ -2,7 +2,7 @@
 <h4 align="left">An enthusiastic software developer with Bachelor's in Software Engineering from University of Westminster who has 1+ years of experience in the Software Engineering domain.</h3>
 <br/>
 
-<img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
+<img align="right" alt="coder-gif" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" >
 
 - 🔭 I work on *Full Stack Development, Mobile App Development, Deep Learning, UI/UX design, Java programming*  
 
