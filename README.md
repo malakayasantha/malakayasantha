@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Malaka</h1>
+<h4 align="left">An enthusiastic software developer with Bachelor's in Software Engineering from University of Westminster who has 1+ years of experience in the Software Engineering domain.</h3>
+<br/>
 
-<!--
-**malakayasantha/malakayasantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif" >
 
-Here are some ideas to get you started:
+- 🔭 I work on *Full Stack Development, Mobile App Development, Deep Learning, UI/UX design, Java programming*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *AWS and DevOps tools*
+
+- 💬 Ask me about *Java, Python, React, etc.*
+
+- 😂 Some random facts that will make you laugh !!
+
+&ensp;&ensp;&ensp;&ensp;&emsp;  ![Jokes Card](https://readme-jokes.vercel.app/api)
+- 📫 Contact me via *malakayasantha2000@gmail.com*
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/MYasantha25914" /></a>
+<a href="https://www.linkedin.com/in/malaka-yasantha-464123207"/></a>
+<a href="https://www.facebook.com/malaka.yasantha" /></a>
+<a href="https://www.instagram.com/_steerfie_/" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,react,bootstrap,css,discord,eclipse,figma,firebase,flask,flutter,git,html,idea,jquery,linux,mongodb,mysql,nodejs,php,spring,tensorflow,vscode)
+
+<br/>
